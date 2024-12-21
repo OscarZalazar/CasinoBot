@@ -1,0 +1,19 @@
+{
+  "whatsapp": {
+    "enabled": true,
+    "sessionData": null,
+    "adminNumber": "",
+    "autoReplyEnabled": true
+  },
+  "mercadoPago": {
+    "accessToken": "",
+    "cvu": "",
+    "alias": ""
+  },
+  "casino": {
+    "provider": "casino1",
+    "url": "",
+    "username": "",
+    "password": ""
+  }
+}
